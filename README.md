@@ -1,4 +1,4 @@
-[![Header](https://github.com/SHIMAD4/SHIMAD4/blob/main/assets/giphy.gif)]
+Header
 
 About me
 

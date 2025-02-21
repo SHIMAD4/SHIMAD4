@@ -1,9 +1,9 @@
-Header
+# Languages and Tools
 
-About me
+**HTML CSS(SCSS/SASS/LESS)**
+**JS TS React**
+**Redux Toolkit**
 
-Languages and Tools
+# Follow me
 
-#HTML #CSS #JS #React #ReactNative #SCSS
-
-Follow me
+[Telegram](https://t.me/snitch_viy)

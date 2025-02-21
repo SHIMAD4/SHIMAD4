@@ -8,4 +8,4 @@
 
 # Follow me
 
-[Telegram](https://t.me/snitch_viy)
+[Telegram](https://t.me/startsev_viy)
